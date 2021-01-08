@@ -1,10 +1,10 @@
 # Skilly_bot_discord
 Custom Bot for Discord :) 
 
-Lenguage Python 3.7+
+Language Python 3.7+
 Modular cogs load / reload / unload
 ### General
-#### Command section:
+#### Commands section:
 -	Creation of reverse shells (php, bash, python, nc, java, xterm, ruby)
 -	Base 64 encoding and decoding
 -	MD5 hashing and cracking (https://md5.gromweb.com/)
