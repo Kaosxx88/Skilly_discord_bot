@@ -1,0 +1,3 @@
+discord.py
+giphy_client
+bs4
